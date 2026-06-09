@@ -8,7 +8,7 @@ This website includes different pages and can navigate through them. This is to 
 ## Screenshots
 
 ![App Screenshot]([https://dummyimage.com/468x300?text=App+Screenshot+Here](https://github.com/fathimafadwah/first_website/blob/main/Screenshot%20from%202026-06-09%2012-00-20.png?raw=true))
-![App Screenshot]([https://dummyimage.com/468x300?text=App+Screenshot+Here](https://github.com/fathimafadwah/first_website/blob/main/Screenshot%20from%202026-06-09%2012-00-28.png?raw=true))
+![App Screenshot](https://github.com/fathimafadwah/first_website/blob/3ea16f060cd22e8bb8eab5ba1deb4579c3f5086f/Screenshot%20from%202026-06-09%2012-00-28.png)
 
 
 ## List of pages
