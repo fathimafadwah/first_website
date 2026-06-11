@@ -65,15 +65,11 @@ footer h3{
     height: 100px;
 }
 .hero{
-    height:700px ;
-    justify-content: center;
-    align-items: center;
-}
-.topsection{
-    margin-top: -10px;
-    background-repeat: no-repeat;
-    background-size: 2000px 700px;
-    background-image: url(https://w0.peakpx.com/wallpaper/697/82/HD-wallpaper-man-is-walking-alone-on-road-between-mountains-alone.jpg);
+    background-image:url(https://w0.peakpx.com/wallpaper/697/82/HD-wallpaper-man-is-walking-alone-on-road-between-mountains-alone.jpg);
+    margin-top: -300px;
+    background-size:1600px 800px ;
+
+
 }
 .hero-text{
     font-size: 150px;
